@@ -1,0 +1,2 @@
+Este proyecto es una mini agenda en la cual puedes guardar tus tareas o actividades por nombre y fecha,
+las tareas se agrupan por fecha (esto logrado por moment) y puedes hacerles un check para identificar las que hayas terminado (utilizando identificadores únicos). La informacion ingresada se guarda en el Local Storage por lo que si se refresca la pestaña no se pierde la información.
